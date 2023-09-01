@@ -4,3 +4,7 @@ git add .
 git add script.js
 git diff script ---> difference between working and staging
 git log
+git show HEAD
+git checkout HEAD fileName  -----> working as last commit
+git checkout reset fileName -----> staging same as last commit
+git reset 7sh
