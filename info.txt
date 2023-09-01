@@ -2,3 +2,5 @@ git  init
 git status 
 git add .
 git add script.js
+git diff script ---> difference between working and staging
+git log
